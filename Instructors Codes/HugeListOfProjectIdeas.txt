@@ -1,0 +1,749 @@
+Huge list of Electronics Project Ideas for Engineering Students
+sourced from http://www.electronicshub.org/electronics-projects-ideas
+
+The standard of these projects is extremely variable, from near-trivial
+to very complex.  However, it's certainly a long list of possibilities.
+No details are given about how the projects are to be carried out, but
+I am sure that a Google search would produe some further information.
+
+1	Water level indicator project
+2	2 to 4 Amp arduino Based Motor Shield
+3	3D Notice Board using LED Cube
+4	4 Player Quiz Buzzer
+5	Fire Alarm with Siren Sound
+6	555 Timer As Amplifier
+7	555 Timer IC Tester
+8	8 Player Quiz Buzzer
+9	90 Second Timer
+10	9-Way Clap Switch Circuit Diagram
+11	A Multiple Bots Operated with a Single Base Station
+12	A Swarm of Mutually Interacting Metal Detecting Robots For Scanning the Area
+13	Accident Detection and Avoidance System Using Doppler Radar Interfaced with ATMEGA16
+14	Active high trigger for 555 in monostable mode
+15	AES128 Encrypted hardware Lock Using AVR ATMEGA-16
+16	Water Level Alarm using 555 timer
+17	AES256 bit Highly Encrypted Image Steganography
+18	Amplifier for Musical ICs
+19	Android based Home Automation System
+20	Android Based Waveform Analyser
+21	Android Based Waveform Generator
+22	Android Controlled Wheel Chair for the Physically Handicapped
+23	Unbiased Digital Dice with LEDs
+24	Anti Theft Alarm for Bikes
+25	Arduino Based Earthquake Detection Social Network Broadcast system
+26	Arduino Based Online Database Interfacing
+27	Arduino Based Swarm Bots
+28	Arduino based Waveform Generator For Electronics Laboratory
+29	Arduino Based World Intelligent Event Detection and Alert System with Network Interface
+30	Arduino Ethernet Interface for Industrial Automation
+31	Ariel Red Herrings to Mislead Missile Tracking Systems
+32	Astable mode by NAND gate
+33	ATmega644 JTAG Debugger
+34	Audio amplifier
+35	Audio Amplifier using Opam
+36	Auto Braking System For Cars Detecting Momentum and Road Irregularities
+37	Auto charging grinding machine with solar power
+38	Auto Intensity Control of Street Lights
+39	Auto Metro Train to Shuttle Between Stations
+40	Auto Power Supply Control from 4 Different Sources: Solar, Mains, Generator & Inverter to Ensure No Break Power
+41	Auto Selection of Any Available Phase, in 3 Phase Supply System
+42	Auto turn off battery charger
+43	Automated Car Parking System
+44	Automated Traffic Signal Controller
+45	Automated Vehicle Identification and Toll-Pass System.
+46	Automatic Bell System for Institutions
+47	Automatic Control for Unmanned Railway Gate.
+48	Automatic Dialing to Any Telephone Using I2C Protocol on Detecting Burglary
+49	Automatic Dusk to Dawn (Evening on to Morning Off)
+50	Automatic Elevator Light and Fan Controller
+51	Automatic Emergency LED Light
+52	Automatic Exhaust Fan Control Coupled To Gas Leak Detection
+53	Automatic Fan Speed Regulator
+54	Automatic Heat Detector
+55	Automatic irrigation System on Sensing Soil Moisture Content
+56	Automatic Light Beam Shifting Of Vehicles On High Ways
+57	Automatic Light Lamp with Morning Alarm
+58	Automatic light/dark indicator
+59	Automatic night lamp
+60	Automatic Plant Irrigation System
+61	Automatic Power OFF timer for CD player
+62	Automatic Road Level Detection And Alerting System for Cars
+63	Automatic Room Light Controller with Bidirectional Visitor Counter
+64	Automatic solar street light controller
+65	Automatic Solar Tracker
+66	Automatic Speed Regulation Depending On Incoming Vehicle On High Ways (Fuel Injection)
+67	Automatic Star Delta Starter Using Relays and Adjustable Electronic Timer for Induction Motor
+68	Automatic Surveillance Camera Panning System from PC
+69	Automatic Threshold Detection System for Phase Preserving Image Denoising
+70	Automatic Vehicle Image Capturing When Overriding traffic lights
+71	Automatic Wash Basin Tap Controller
+72	Automatic Wireless Health Monitoring System in Hospitals for Patients
+73	AVR based Heart Rate Monitoring System With Health level Indicator
+74	Background Interpolation for Selective Image Cancellation
+75	Bathroom Light Off Timer
+76	Battery Level Indicator
+77	BCD to 7 Segment display Circuit
+78	Beacon Flasher Using Microcontroller
+79	Bi Color LED
+80	bidirectional Rotation of an Induction Motor with a Remote Control Device
+81	BLDC Motor Speed Control with RPM Display
+82	Bluetooth Controlled Robot
+83	Burglar alarm based Home Security System
+84	Camouflaged Voice Recording and Transmitting System
+85	Car Reverse Horn
+86	CD 4013 based Sound Sensing Module
+87	CD 4013 Based Two Way Switch
+88	CD 4027 Based Emergency Lighting System
+89	CD 4060 Based Security Alarm
+90	CD 4060IC based Message Display Circuit
+91	CD4001 IC based Lighting System
+92	CD4049 Based LED torch
+93	Cell Phone Based DTMF Controlled Garage Door Opening System
+94	Cell Phone Controlled Robotic Vehicle
+95	Cell Phone Operated Land Rover
+96	Clock with LED pendulum with tick tock sound
+97	Closed Loop Control for a Brushless DC Motor to Run at the Exactly Entered Speed
+98	Coin Toss/Flip Simulator Circuit
+99	Color distinguished using LDR/Color sensor using LDR
+100	Combinatorial Digital Circuit Logic Determining Device
+101	Comprehensive Threat Detection for Offices
+102	Contactless Liquid Level Controller
+103	Continuous Speech Processing Using Python
+104	Continuous Speech to Text Conversion for Indian Languages
+105	Conversion of NAND gate to Basic gates
+106	Conversion of NOR gate to Basic gates
+107	Curtain Opener Circuit
+108	Cyclo Converter Using Thyristors
+109	Dancing LED's
+110	Darkness detector
+111	Darkness Detector Alarm
+112	Density Based Traffic Signal System
+113	Detecting Power Grid Synchronization Failure on Sensing Frequency or Voltage Beyond Acceptable Range
+114	Differential amplifier
+115	Digital Stop Watch
+116	Discotheque Light Stroboscopic Flasher
+117	Dish Positioning Control by IR Remote
+118	Display of Dialed Telephone Numbers on Seven Segment Displays
+119	Display System used in Restaurant
+120	Distance Measurement by Ultrasonic Sensor
+121	DNA Based Mathematical Calculator
+122	DTMF Based Car Lock System
+123	DTMF Based Load Control System
+124	DTMF Decoder
+125	Dual converter Using Thyristors
+126	Easy to Use Automatic Light Controller to Turn ON Lights In Dark
+127	Electromagnetic Climbing Robots for Industries
+128	Electronic alarm for cash box, lockers
+129	Electronic Code Locking System
+130	Electronic Dog to Sense The Proximity of a Specific Purpose
+131	Electronic Door Bell
+132	Electronic Eye Controlled Security System
+133	Electronic Letter Box
+134	Electronic Nose to Indicate gas Leakage in Underground Mines and Industries
+135	Electronic Notepad
+136	Electronic Number Game
+137	Electronic Soft Start for 3 Phase Induction Motor
+138	Electronic Thermometer for Beverage Temperature Measurement
+139	Electronic Timer Circuit
+140	Fabrics That Generate Energy using Dye Based Solar Cells
+141	Facebook Connected Arduino And Intelligent Event Reporting
+142	FACTs (flexible ac transmission) by TSR
+143	FACTs by SVC (flexible ac transmission)
+144	Fading LEDs
+145	Fastest Finger Press Quiz Buzzer
+146	Finger Print Based Security System
+147	Fire Fighting Robotic Vehicle
+148	Fire Powered Mini Portable Power Supply
+149	Fixed voltage power supply
+150	Flash Flood Intimation Over GSM Network
+151	Flash Memory with Self Destroy Master Lock
+152	Flip Flop based Staircase Switch
+153	Four Quadrant DC Motor Control without Microcontroller
+154	Four Quadrant DC Motor Speed Control with Microcontroller
+155	Frequency Counter Using Smartphone
+156	Full range centigrade temperature sensor
+157	Generating time delay with 555 IC
+158	Gesture Operated Wheel Chair
+159	GPS enabled Quadracopter
+160	GSM Based Energy Meter Reading with Load Control
+161	GSM Based Monthly Energy Meter Billing via SMS
+162	Hardware Authentication Dongle with Fingerprint Recognition
+163	Hardware Level Bit tracing and Data Interpolating Forensic System
+164	H-bridge using transistor
+165	Hidden Active Cell Phone Detector
+166	High Pass Filter Circuit
+167	High Voltage DC by Marx Generator Principles
+168	High Voltage DC Upto 2kv from AC by Using Diode and Capacitors in Voltage Multiplier Circuit
+169	Hit the Target Game
+170	Home Automation Using Digital Control
+171	Humidity Detector Circuit
+172	IC 555 Based Message Display Circuit
+173	IC555 based Multicolor LED Lamp Circuit Diagram
+174	Image Watermarking Using Python
+175	Incoming Phone Ring Light Flasher
+176	Induction Motor Protection System
+177	Industrial Battery Charger by Thyristor Firing Angle Control
+178	Industrial Power Control by Integral Cycle Switching without Generating Harmonics
+179	Industrial Temperature Controller
+180	Infrared (IR) sensor
+181	Integrated Energy Management System Based on GSM Protocol with Acknowledge
+182	Intelligent Bot Network for Area Monitoring and reporting
+183	Interfacing 4026 with 7 segment display
+184	Intruder Alarm
+185	Inverting amplifier using 741
+186	Inverting amplifier with signal feedback
+187	Invisible Image Watermarking in Python
+188	IR Controlled Robotic Vehicle
+189	IR Obstacle Detection to Actuate Load
+190	IR Remote Control Switch
+191	Lamp Life Extender by ZVS (Zero Voltage Switching)
+192	LDR Based Automatic Lamp
+193	LED Based Pendulum Circuit
+194	Led Flasher Circuit
+195	LED Lamp Using CA3140 IC
+196	Life Cycle Testing of Electrical Loads by Down Counter
+197	Light dependent frequency variation using LDR
+198	Light detector
+199	Light sensor using photodiode
+200	Lighting Controller Counts How Many People are in a Room
+201	Line Following Robotic Vehicle
+202	Line Following Robotic Vehicle Using Microcontroller
+203	Liquid level Alarm
+204	Location Broadcaster Using Arduino Ethernet Interface
+205	Location Mapping and Routing System for the Blind With GPS Support
+206	Location Mapping Ariel Vehicle
+207	Long Range FM Transmitter with Audio Modulation
+208	Long range IR
+209	Low Cost Touch Screen For Instant Drawing And Presentations
+210	Low pass filter
+211	Luggage Security Alarm
+212	Magic Eye Circuit Using 4049 IC
+213	Magic Eye using 555 Timer IC
+214	Mains Operated LED Light
+215	MATLAB based Landscape Surveillance System
+216	Metal Detector Robotic Vehicle
+217	Microscope Using A Smartphone
+218	Military Grade Video based Steganography
+219	Miniature Disguised Location Transmitter for Military Spying
+220	Miniature Photonic Rat Bot
+221	Minimizing Penalty in Industrial Power Consumption by Engaging APFC Unit
+222	Mobile Jammer
+223	Mobile Phone Sniffer With Over 10 Meter Range Using An Ultrasonic Device as Antenna
+224	Motion Detector
+225	Movement Sensed Automatic Door Opening System
+226	Multi Color Lighting
+227	Multimeter Using Android Smartphone
+228	Multipurpose Timer With Musical Alarm
+229	Multitone Generator Circuit
+230	Multi-Utility Flashing Light
+231	Music (Data) transfer by IR
+232	NE 555 Timer based Automatic Headlight
+233	Negative supply using 555 IC
+234	Networking of Multiple Microcontrollers
+235	Night Lamp using 555
+236	Night Lamp with Timer for Stairs
+237	Non Contact Tachometer
+238	Non inverting amplifier
+239	NOR Gate as SR Flip Flop
+240	NOT gate monostable
+241	Notepad Lamp
+242	Number Guessing Game
+243	Object Counter with 7 Segment Display
+244	Object Detection by Ultrasonic Means
+245	Obstacle Avoidance Robotic Vehicle
+246	Opamp as comparator
+247	Optimum Energy Management System
+248	Over Voltage or Under Voltage Tripping Mechanism
+249	Overheat/Overcooling circuit breaker
+250	Panic Alarm
+251	Panic Sensing and Spontaneous Stabilization System for Cars to avoid Accidents
+252	Parallel Port Based Home Automation on Linux
+253	Parallel Telephone Lines with Security System
+254	Parked Vehicle Indicator
+255	Password Based Circuit Breaker
+256	PC Based Electrical Load Control
+257	PC Based Wireless Appliance Control
+258	PC Controlled Scrolling Message Display for Notice Board
+259	PC Temperature Controller
+260	Periodically Turning On & Off Mosquito Repellent Circuit Diagram
+261	Phase Preserving Image Denoising for Maximum Noise Removal
+262	Phase Sequence Checker for Three Phase Supply
+263	Pick N Place with Soft Catching Gripper
+264	Piezo sensor as input
+265	Piezo sensor as output
+266	Pin-Pong Ball Board for Eye Catching Marketing
+267	Pocket CRO using Android
+268	Polarity cum Continuity Tester
+269	Porch Light (Auto Turn Off Light) Circuit Diagram
+270	Portable Programmable Medication Reminder
+271	Post Encryption Data Scrambling For Maximum Data Security random order
+272	Power failure alarm
+273	Power Saver for Industries & Commercial Establishments ? For more details about this project, please Abstract.
+274	Pre Set Off Timer
+275	Pre Stampede Monitoring and Alarm System
+276	Precise Digital Temperature Control
+277	Precise Illumination Control of Lamp
+278	Precision Current Source With Keypad interface to Select the current
+279	Predefined Speed Control of BLDC Motor
+280	Pre-programmed Digital Scrolling Message System
+281	Programmable AC Power Control
+282	Programmable Energy Meter for Electrical Load Survey
+283	Programmable Load Shedding Time Management for Utility Department
+284	Programmable Switching Control for Industrial Automation in Repetitive Nature of Work
+285	Pulse Counter Fed with Infrared Pulses
+286	PWM LED Dimmer Using NE555
+287	Quadracopter with Six Degrees of Freedom and Obstacle Avoidance Built in
+288	Quadracopter with Video transmission Ability
+289	Railway Level Crossing Gate Control through SMS by the Station Master or the Driver
+290	Railway Track Security System
+291	Rain alarm
+292	Random Number Generator Using 7 Segment Display
+293	Raspberry Based Home Automation
+294	Refrigerator Door Alarm
+295	Relay activation using TSOP 1738
+296	Relay control by sound
+297	Relay control through mic
+298	Relay operation using Darlington Pair
+299	Reminder Alarm
+300	Remote Control For Home Appliances
+301	Remote Controlled Toy Car
+302	Remote Jamming Device
+303	Remote Tester Circuit
+304	RF based Fire Alarm (Overheat Alarm)
+305	RF Based Home Automation System
+306	RF based Intruder Alarm
+307	RF based Wireless Remote Control
+308	RF Controlled Hovercraft
+309	RF Controlled Robotic Vehicle With Laser Beam Arrangement
+310	RF Electrically Directional Antenna Based Tracking System
+311	RFID based attendance system
+312	RFID Based Device Control and Authentication Using PIC Microcontroller
+313	RFID Based Door Access Control
+314	RFID Based Paid Car Parking
+315	RFID Based Passport Details
+316	RFID security access control system
+317	Rhythm Following Flashing Lights
+318	Safety Alarm Circuit
+319	SCADA (Supervisory Control & Data Acquisition) for Remote Industrial Plant
+320	Secret Code Enabled Secure Communication Using RF Technology
+321	Secure room access system
+322	Security Alarm for Doors, Almirah, cupboards using Opam
+323	Security System
+324	Security System Using Smartcard Technology
+325	Security System With User Changeable Password
+326	Seismic sensor
+327	Self Switching Power Supply
+328	Shadow Alarm using LDR
+329	Shadow Counter Solar Powered Long Range Communication System using Microwave Devices
+330	Short Range Ultrasonic Radar With Distance Measuring Capabilities
+331	Simple AC to DC converter using bridge rectifier
+332	Simple Fire Alarm
+333	Simple FM Radio Jammer
+334	Sine Pulse Width Modulation (SPWM)
+335	Single switch motor on/off.. Clockwise/anticlockwise
+336	Single Wheeled Self Balancing Bot
+337	Sleep Sensing and Alerting System for Drivers
+338	Smooth Start of a Single Phase Induction Motor
+339	Solar Energy Measurement System
+340	Solar mobile phone charger circuit
+341	Solar Power Charge Controller
+342	Solar Powered Auto irrigation System
+343	Solar Powered LED Street Light with Auto Intensity Control
+344	Sound generation in audio range
+345	Sound Generation using 555
+346	Sound Operated LED
+347	Sound Operated Switch
+348	Speed Checker to Detect Rash Driving on Highways
+349	Speed Control Unit Designed for a DC Motor
+350	Speed Synchronization of Multiple Motors in Industries
+351	Spell Effect Sign Display Circuit
+352	Staircase Light That Turns ON and OFF Automatically When Required
+353	Stamp Value Calculator for Postage Needs
+354	Step Up 6 Volt DC to 10 Volt DC Using 555 Timer
+355	Street Light that Glows on Detecting Vehicle Movement
+356	Suitcase Security Alarm
+357	Sun Tracking Solar Panel
+358	SVPWM Space Vector Pulse Width Modulation
+359	Synchronized Traffic Signals at Various Junctions Using PIC Microcontroller
+360	Tampered Energy Meter Information Conveyed to Concerned Authority by Wireless Communication
+361	Temperature Broadcaster to Twitter Using Arduino Ethernet Interface
+362	Text to Speech Conversion For Indian Languages
+363	Theft Intimation of Vehicle Over SMS to Owner Who Can Stop the Engine Remotely
+364	Thermistor Based Temperature Control
+365	Three Phase Fault Analysis with Auto Reset on Temporary Fault and Permanent Trip Otherwise
+366	Three Phase Solid State Relay with ZVS
+367	Thumb Sized Adjustable Voltage Step Up Circuit
+368	Thumb sized capacitance Calculator
+369	Thumb sized Resistance Calculator
+370	Thyristor Controlled Power for Induction Motor
+371	Thyristor Power Control by IR Remote
+372	Time Delay Based Relay Operated Load
+373	Timed Switch With User Defined ON and OFF Intervals
+374	Timer Based Code Lock
+375	Timer Circuit using IC 4026
+376	Timer Circuit using IC CD 4060
+377	Toggle flip flop using CD4013
+378	Toggle switch using CD4017
+379	Tone generator Circuit Diagram
+380	Touch Controlled Load Switch
+381	Touch Screen Based Home Automation System
+382	Touch Screen Based Industrial Load Switching
+383	Touch Screen Based Remote Controlled Robotic Vehicle for Stores Management
+384	Touch Switch Circuit using 555 Timer
+385	Transformerless Low Loss DC Converter
+386	Transistor as audio amplifier
+387	Transistor Based Secret Bell
+388	Transistor based Security Alarm
+389	Tsunami Detection and Social Broadcast System
+390	Turn ON at Night Light Controller with Single Sensor Ambiguity Elimination
+391	TV Remote Operated Domestic Appliances Control
+392	Ultra Fast Acting Electronic Circuit Breaker
+393	UM3561 IC Based Security Alarm
+394	Underground Cable Fault Distance Locator
+395	Understanding Decade Counter CD4017
+396	Understanding JK flip flop using CD4027
+397	Understanding NOR Gate (CD4001)
+398	Unique Office Communication System Using RF
+399	UPFC Unified Power Factor Control
+400	USB Mobile Charger Circuit Diagram
+401	User Defined String Display and Marquee Scrolling using LED Array
+402	Using TV Remote as a Cordless Mouse for the Computer
+403	Variable power supply and charger with emergency light
+404	Variable Power Supply From Fixed Voltage Regulator
+405	Vehicle Indicator
+406	Velocity Detector Using Ultrasonic Means
+407	Vibration Alert System for the Deaf
+408	Video Activated Relay to Control the Load
+409	Vision Operated Home Automation For the Physically Disabled
+410	Visual Monitoring and Alerting System for Restricted Areas
+411	Visually Camouflaged Vehicles for Military Purposes
+412	Voice Controlled WheelChair
+413	Voltage boost by using a resistor with 78XX
+414	Voltage Doubler Circuit Using IC 4049
+415	Voltage Doubler Circuit Using IC555
+416	War Field Spying Robot with Night Vision Wireless Camera
+417	Water Level indicator and Filling Time Estimator
+418	Water Sensor Circuit
+419	Water Tank Overflow Alarm
+420	Wire Loop Breaking Alarm Signal
+421	Wireless Audio Transmitter for TV
+422	Wireless Control Of Robotic Arm
+423	Wireless Electronic Notice Board Using GSM
+424	Wireless message Communication Between Two Computers
+425	Wireless motor control through RF
+426	Wireless Power Transfer
+427	Wireless Remote to Control 255 Different Appliances Individually
+428	Wireless Switch Circuit Diagram
+429	Working of light dependent resistor
+
+************* Robotics projects **************
+
+1	Intelligently navigable Robotic vehicle for Industries using compass and RFID
+2	Material handling robot controlling through wireless Zigbee using MATLAB
+3	Obstacle Avoidance and Manhole detection Electronic travel aid Robot for blind
+4	Robot controlling using GUI and Audio Video capturing using MATLAB
+5	Robot to rescue of a child in a borehole
+6	Smart zone based Vehicle speed control system based on RF and DTMF
+7	3 G Mobile phone controlled live human being detection
+8	Accelerometer (Gyroscope) Controlled Robot
+9	Aero plane Controlling System (Flying Model)
+10	AI Based Fire fighting AGV
+11	An intelligent mobile robot navigation technique using RFID Technology
+12	Android mobile phone controlled bluetooth robot
+13	Artificial Intelligent Based Automatic Path finding Cum Video Analyzing Robot
+14	Artificial Intelligent based Solar Vehicle
+15	Artificial vision systems for the blind using ultrasonic wave
+16	Auto Metro Train to Shuttle Between Stations
+17	Automated Guided Vehicle (AGV)
+18	Automated Vehicle Safety System to Avoid Accidents
+19	Automatic alcohol sensing robot
+20	Automatic Arc Welding Robot
+21	Automatic Ball Printing Robot
+22	Automatic car overtaking system
+23	Automatic Fire Sensing and fighting Robot
+24	Automatic Head light Intensity control for vehicles to avoid accidents
+25	Automatic Magnetic Accident preventer for Train
+26	Automatic Paint spraying Robot
+27	Automatic railway track crack detecting Vehicle
+28	Automatic Robot Over speed controlling system for People Zone
+29	Automatic Scrap collecting Robot
+30	Automatic sensor based wall painting Robot
+31	Automatic Steering Control robot
+32	Automatic vehicle Accident Information System
+33	Automatic vehicle accident place finding system by using GPS technology
+34	Automatic Vehicle Over speed controlling system for School Zone
+35	Automatic Visitor Guided Robot
+36	Autonomous Mobile Platform II with artificial intelligence using digital compass and GPS
+37	Autonomous Robot with artificial vision for obstacle detection
+38	Bomb detecting robot with metal detection sensor
+39	Cell Phone Controlled jumping Robot
+40	Cell Phone Controlled Robotic Vehicle
+41	Cell phone controlled Solar Vehicle
+42	Cell Phone Controlled Video Analyzing Robot
+43	CNC material handling robot
+44	Computer controlled Pic and Place Robot (wired or wireless)
+45	Computer Interfaced Stationery Robot
+46	Construction of flying Quad Rotor Chopper with Video camera surveillance system
+47	Design and development of voice / Tele operated intelligent mobile robot
+48	Designing and construction of Movable robotic arm
+49	Designing painting robot using spray gun tool
+50	Digital Compass and GPS based self navigating Robot
+51	Digital locking system (Password) for moving robot
+52	DTMF based human less boat control for ocean research applications
+53	DTMF based humanless Robotic boat control for ocean research application
+54	DTMF based Mobile phone controlled Robot
+55	DTMF controlled live human being detecting ROBO
+56	Fabrication of Computer Interfaced Robot
+57	Fabrication of GPS Robot
+58	Fabrication of mindless defense
+59	Fabrication of road curve finding robot
+60	FAMPER robot with Video transmission and head lamp vision
+61	Fire Detection and Automatic Controlling using Image Processing
+62	Fire Fighting Robotic Vehicle
+63	flying Quad robot chopper with wireless video camera
+64	Fully Automated Track Guided Vehicle (ATGV)
+65	Gestures controlled Intelligent Wheel chair with device switching
+66	GPS and Digital Compassed based self navigating robot
+67	GPS based vehicle root tracking system
+68	GSM (SMS) Mobile Phone Controlled Intelligent Robot
+69	GSM based automatic vehicle accident information system
+70	GSM mobile phone based automobile security system
+71	Hand Gestures controlled Intelligent Wheelchair
+72	Head-movement controlled robot with voice and with video camera
+73	Human Eye Robot (Model)
+74	Human-robot interface using robust speech recognition
+75	Industrial temperature analyzing Robot
+76	Infrared Light tracing Robot (TV Remote controlled)
+77	Intelligent Robot
+78	Intelligently Investigate Pipe-line Robot
+79	Intelligently Navigable Robotic vehicle for Industries using compass and Magnetic crane
+80	IR Controlled Robotic Vehicle
+81	J2ME Java Enabled mobile phone controlled Bluetooth Robot
+82	Line Following Robotic Vehicle
+83	Line Following Robotic Vehicle Using Microcontroller
+84	Live Human being detection wireless remote controlled Robot (Useful for detection of terrorists hiding inside buildings)
+85	Live Human detection and alerting Robot
+86	Location based vehicle speed controlling using RF
+87	Man less defense
+88	Material Dimensions Analyzing Robot
+89	MEMS Accelerometer based Hands Gesture controlled Robot
+90	MEMS controlled robot with wireless video camera mounted on it
+91	Metal Detector Robotic Vehicle
+92	Micro Electro Mechanical Sensor (MEMS) Accelerometer/Gyroscope based self-balancing robot
+93	Microcontroller based Visible Light Follower Robot
+94	Mine detecting robot with help of proximity sensors
+95	Mini Robot Car for industrial application
+96	Mini Robot Spray Painting System
+97	Mobile phone Bluetooth operated robot
+98	Mobile phone controlled four-legged walking robot with speed and direction control
+99	Obstacle Avoidance Robotic Vehicle
+100	Obstacle detection Robot with Ultrasonic Sensors
+101	Omni Directional Robot with GSM Connectivity for Remote Access
+102	Path finding Robot
+103	PC controlled wireless Pick and Place Speaking Robot
+104	PC controlled wireless Robot with live human detection
+105	PC operated wireless War field Robot
+106	PLC based pick and place Robot
+107	Pneumatic Four Axis Material Handling Robot
+108	Radio Frequency based remote controlled robot with wireless video camera mounted on it
+109	Remote controlled air craft (Flying Model)
+110	Remote controlled bomb detecting robot
+111	Remote Controlled Land Rover
+112	Remote controlled material handling robot
+113	Remote controlled paint spraying Robot
+114	Remote Controlled Video Analyzing Robot
+115	Remote operated weapons robot
+116	RF Controlled Robotic Vehicle With Laser Beam Arrangement
+117	ROBO leg for physically challenged
+118	Robot Control by PC with Head Lamp and Night Vision
+119	Robot controlled Vacuum Cleaner
+120	Robot Controlled Wireless Audio-Video Streaming Camera
+121	Robot controlling wirelessly through Wi-Fi technology
+122	Robot Excavator (Model)
+123	Robot for military application
+124	Robot Hand (Model)
+125	Robot manipulator
+126	Sand Collecting Vehicle
+127	Sensor Operated Automatic Punching robot
+128	Sensor Operated Path Finding Robot (Way Searching)
+129	Servo motor controlled wireless video camera control system
+130	Smoke and LPG Gas detection robot with wireless control
+131	SMS based automatic two wheeler locking system
+132	SMS Based automatic vehicle accident information system
+133	SMS controlled solar vehicle
+134	SMS controlled video analyzing robot
+135	Solar Powered Vehicle/Car with ultrasonic sensors (LCD voltage display)
+136	speech controlled wireless elevator system
+137	Speech recognition robot with ultrasonic obstacle avoidance system
+138	Telephone Operated Robot
+139	The development of intelligent home security robot
+140	Three axis modern trailer
+141	Tongue controlled speaking robot for paralyzed/physically handicapped persons
+142	Tongue driven speaking wheel chair with wireless device control
+143	Touch Screen Controlled intelligent robot
+144	Unaided Guided Vehicle(UGV)
+145	Using Cellular Automata on Recommendation Mechanism for Smart Parking in Vehicular Environments
+146	Vehicle Anti collision using Ultrasonic signals
+147	Video analyzing remote controlled vacuum cleaning robot
+148	Visible light follower Robot
+149	Visitor guided with material handling Robot
+150	Voice activated multi purpose robot
+151	Voice actuated hospital bed control system and Heart Beat monitoring and alerting system
+152	Voice commands based wheel chair for physically challenged
+153	Voice Controlled Material handling vehicle
+154	Voice operated Fire extinguisher vehicles with water jet spray
+155	Voice operated intelligent Lift or Elevator
+156	Voice operated robot with speaker identification technology
+157	Wall Follower Robot
+158	War Field Spying Robot With Night Vision Wireless Camera
+159	Wifi robot controlled from Android smart mobile phone
+160	Wireless operated war field land Rover that alerts on sensing planted Land Mines
+161	Wireless operated War field spying Robot with night vision wireless camera
+162	Wireless room freshener spraying robot with video vision
+163	Wireless Voice and image transmission robot for surveillance system
+164	Yarn detector and Braking Controlling Robot
+165	Zigbee based remote controlled robot with wireless video camera mounted on it
+166	Zigbee controlled Boat with wireless video and voice transmission with night vision capability
+
+
+********************** Embedded Systems Projects Ideas **************
+
+1	Mobile Operated SCADA for Industries Embedded System Project
+2	Transients Control for Home Appliances Project
+3	Development of Embedded Web Server on ARM9 Project
+4	GSM Based ECG Tele-Alert System
+5	On-Board Diagnostic (OBD) System
+6	Biometrics ATM System
+7	Vehicle Tax Pay And Access System
+8	Bank Locker Security System
+9	Automated Car Dash Board
+10	Microcontroller Based Electronic Queue Control Systems
+11	Brain-Actuated Humanoid Robot Navigation Control
+12	Bluetooth Energy Meter
+13	Automated Car Dash Board
+14	Automation of Cars Using Embedded Systems Technology
+15	Line Following Robotic Vehicle Using Microcontroller
+16	Metal Detector Robotic Vehicle
+17	Movement Sensed Automatic Door Opening System
+18	Solar Energy Measurement System
+19	Speed Synchronization of Multiple Motors in Industries Using PIC Microcontroller
+20	Cell Phone Based DTMF Controlled Garage Door Opening System
+21	Cell Phone Controlled Robotic Vehicle
+22	Closed Loop Control for a Brushless DC Motor to Run at the Exactly Entered Speed
+23	Cyclo Converter Using Thyristors
+24	Distance Measurement by Ultrasonic Sensor
+25	DTMF Based Load Control System
+26	FACTs (flexible ac transmission) by TSR
+27	FACTs by SVC (flexible ac transmission)
+28	Fire Fighting Robotic Vehicle
+29	Street Light that Glows on Detecting Vehicle Movement
+30	Synchronized Traffic Signals at Various Junctions Using PIC Microcontroller
+31	Theft Intimation of Vehicle Over SMS to Owner Who Can Stop the Engine Remotely
+32	Using TV Remote as a Cordless Mouse for the Computer Using PIC Microcontroller
+33	Flash Flood Intimation Over GSM Network
+34	Four Quadrant DC Motor Speed Control with Microcontroller
+35	GSM Based Energy Meter Reading with Load Control
+36	GSM Based Monthly Energy Meter Billing via SMS
+37	Industrial Battery Charger by Thyristor Firing Angle Control
+38	Industrial Power Control by Integral Cycle Switching without Generating Harmonics
+39	Integrated Energy Management System Based on GSM Protocol with Acknowledgement Feature
+40	IR Controlled Robotic Vehicle
+41	IR Obstacle Detection to Actuate Load
+42	Automatic Dialing to Any Telephone Using I2C Protocol on Detecting Burglary
+43	Automatic irrigation System on Sensing Soil Moisture Content
+44	Lamp Life Extender by ZVS (Zero Voltage Switching)
+45	Life Cycle Testing of Electrical Loads by Down Counter
+46	Networking of Multiple Microcontrollers
+47	Non Contact Tachometer
+48	Object Counter with 7 Segment Display
+49	Object Detection by Ultrasonic Means
+50	Obstacle Avoidance Robotic Vehicle
+51	Optimum Energy Management System
+52	Density Based Traffic Signal System Using PIC Microcontroller
+53	GSM Based Energy Meter Reading With Load Control Using PIC Microcontroller
+54	Portable Programmable Medication Reminder Using PIC Microcontroller
+55	Pre Stampede Monitoring and Alarm System Using PIC Microcontroller
+56	RFID Based Device Control and Authentication Using PIC Microcontroller
+57	Auto Intensity Control of Street Lights
+58	Auto Metro Train to Shuttle Between Stations
+59	Auto Power Supply Control from 4 Different Sources: Solar, Mains, Generator & Inverter to Ensure No Break Power
+60	Automatic Bell System for Institutions
+61	Automatic Surveillance Camera Panning System from PC
+62	Automatic Wireless Health Monitoring System in Hospitals for Patients
+63	Beacon Flasher Using Microcontroller
+64	Bidirectional Rotation of an Induction Motor with a Remote Control Device
+65	BLDC Motor Speed Control with RPM Display
+66	Parallel Telephone Lines with Security System
+67	Password Based Circuit Breaker
+68	PC Based Electrical Load Control
+69	PC Controlled Scrolling Message Display for Notice Board
+70	Pick N Place with Soft Catching Gripper
+71	Portable Programmable Medication Reminder
+72	Power Saver for Industries & Commercial Establishments
+73	Pre Stampede Monitoring and Alarm System
+74	Density Based Traffic Signal System
+75	Detecting Power Grid Synchronization Failure on Sensing Frequency or Voltage Beyond Acceptable Range
+76	Discotheque Light Stroboscopic Flasher
+77	Dish Positioning Control by IR Remote
+78	Display of Dialed Telephone Numbers on Seven Segment Displays
+79	Embedded Based Customized Wireless Message Circular System for College Industries
+80	Library Automation Using RFID
+81	Temperature Controlled Fan Projects
+82	Embedded Password Based Security Door Lock System
+83	Embedded Web Tech in Traffic Monitoring System
+84	Solar Tracking System for Optimal Power Generation Embedded System Projects
+
+****************  COMMUNICATIONS PROJECTS ****************
+
+1	Wireless Attendance Recorder
+2	Wireless Electrical Apparatus Control System with Speed Control of AC motor in a plant using RF communication
+3	Wireless DC Motor Speed and Direction Control using RF Communication
+4	Bluetooth based Wireless Device control for Industrial Atomization
+5	Streetlight Power Cable Monitoring System Based on Wireless Sensor Networks using Zigbee communication.
+6	Zigbee based Wireless Electronic Notice Board with Multi Point Receivers
+7	Bluetooth based Robot Control for Metal Detection Applications
+8	Wireless Electrical Apparatus Control System using IR communication
+9	RF based tsunami detection and remote alert system with 60dB siren
+10	Wireless Process Controller
+11	File Sharing Using Bluetooth
+12	Simple Radar Communication System
+13	Wireless Hospital Management System
+14	Wireless Temperature Monitoring on Remote Seven-segment Display using RF
+15	Wireless Power Transfer
+16	Wireless Message Communication Between Two Computers
+17	Wireless Electronic Notice Board Using GSM
+18	Wireless Over Temperature Alarm
+19	Automatic Wireless Health Monitoring System in Hospitals for Patients
+20	War Field Spying Robot with Night Vision Wireless Camera
+21	Wireless Audio Transmitter for TV
+22	Tampered Energy Meter Information Conveyed to Concerned Authority by Wireless Communication
+23	Fire Fighting Robotic Vehicle
+24	Vehicle Tracking System
+25	Accident Identification System
+26	Wireless Camera Position System
+27	Remote Home Security System
+28	Wireless Voting Machine
+29	Wireless Security System
+30	Video Signal Transmitter
+31	Audio Signal Transmitter
+32	Remote Controlled Dish Antenna
+33	Wireless Home Appliances Controller
+34	Centralized Monitoring System for Taxies
+35	Cryptographic Secured Communication Between Army Stations
+36	Wireless Audio Communication System
+37	Wireless Traffic Light Controller
+38	Wireless Motor Monitoring System
+39	Wireless Transformer Monitoring System
+40	Remote Industrial Security System
+41	Intelligent Wireless Controller for Oil Wells
+42	Zigbee based Secured Wireless Data transmission and Reception
+43	Wireless Electronic Notice Board with Multi Point Receivers using RF Communication System
+44	Wireless DC Motor Speed and Direction Control using IR (PWM and H-Bridge)
+45	Wireless Stepper Motor Control using RF Communication
+46	Two-way Wireless Data Messaging System for Rural Areas using Zigbee Technology
+47	Zigbee based wireless remote weather station monitoring system
+48	Wireless Data Encryption and Decryption for Secured Communication using RF
+49	Wireless Stepper Motor Control using IR Communication
+50	Wireless Ac Motor Speed Control Using TRIAC
+51	PC Regimented Defense Android Using Zigbee
+52	Wireless AC/DC Device control for Appliances Using Remote Control

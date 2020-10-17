@@ -1,0 +1,10 @@
+main.c:83:5:main	80	static
+main.c:182:6:SystemClock_Config	128	static
+main.c:228:13:MX_DAC_Init	16	static
+main.c:266:13:MX_TIM2_Init	32	static
+main.c:311:13:MX_USART2_UART_Init	8	static
+main.c:346:13:MX_GPIO_Init	56	static
+main.c:396:15:triangle	48	static
+main.c:405:15:square	40	static
+main.c:411:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:466:6:Error_Handler	8	static
